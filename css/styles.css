@@ -354,7 +354,7 @@ Hero
   .hero .down-arrow a {
     color: #fff; }
   .hero h1 {
-    color: #fff;
+    color: red;
     margin-bottom: 40px; }
   .hero p.intro {
     color: #fff;
